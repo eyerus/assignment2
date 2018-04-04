@@ -1,2 +1,2 @@
-# assignment2
-the second
+infinitely calling HTTP GET request
+start up the nodeJS
